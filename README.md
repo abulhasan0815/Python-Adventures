@@ -2,5 +2,5 @@
 Just simple python games and programs
 
 <p>
-  <img align="centre" wight="300" src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/Get%20it%20DONE!!!.gif"/>
+  <img align="centre" wight="250" src="https://github.com/abulhasan0815/abulhasan0815/blob/main/assets/Get%20it%20DONE!!!.gif"/>
 </p>
